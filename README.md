@@ -1,7 +1,7 @@
 # Hello 👋 I'm Mini
 
 ## 🚀 About Me
-[열심히 살아봅시다. 2024-07-29]
+[--]
 
 ## 🔭 Current Studies
 - [Opensoftware_Competition]: [CrowdGuard Alert, 군중 안전을 위한 경고 시스템]
