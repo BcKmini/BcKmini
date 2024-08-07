@@ -1,18 +1,5 @@
 # Hello 👋 I'm Mini
 
-## 🚀 About Me
-[--]
-
-## 🔭 Current Studies
-- [Opensoftware_Competition]: [CrowdGuard Alert, 군중 안전을 위한 경고 시스템]
-- [SQLD] , RAG 기반 챗봇 구축
-
-## 🌱 Currently Learning
-- [PYthon + AI]
-
-## 🌱 Topics of Interest
-- [data analysis]
-
 ## 📫 How to Reach Me
 - Email: akkn920@naver.com
 
@@ -27,7 +14,3 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📊 GitHub Stats and Activity
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
