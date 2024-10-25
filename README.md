@@ -1,7 +1,7 @@
 <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
----
+----
 
 <table>
   <tr>
