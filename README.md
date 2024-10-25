@@ -1,4 +1,4 @@
-# Hello 👋 I'm Mini
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Mini Github&fontSize=90" />
 
 ## 📫 How to Reach Me
 - Email: akkn920@naver.com
