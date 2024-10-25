@@ -1,13 +1,17 @@
 <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
+---
 
+<p align="left">
+  <a href="mailto:akkn920@naver.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://velog.io/@mi_nini/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
+  </a>
+</p>
 
-## 📫 How to Reach Me
-- Email: akkn920@naver.com
-
-## 📕 My Blog Posts
-- https://velog.io/@mi_nini/posts
 
 ---
 
