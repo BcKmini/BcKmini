@@ -1,5 +1,6 @@
 <!-- Header Image -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
+
 
 
 ## 📫 How to Reach Me
