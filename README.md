@@ -8,14 +8,11 @@
     <td>
       <!-- Contact and Blog Badges -->
       <p align="left">
-        <a href="mailto:akkn920@naver.com">
-          <img src="https://img.shields.io/badge/Email-FF6347?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-        </a>
         <a href="https://velog.io/@mi_nini/posts" target="_blank">
           <img src="https://img.shields.io/badge/Velog-FF6F61?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
         </a>
       </p>
-      <p> 🚀 Click the icons below to explore my blog or drop me an email – I’d love to connect! 📬</p>
+      <p> 🚀 Click the icons below to explore my blog </p>
     </td>
     <td>
       <!-- GitHub Stats -->
