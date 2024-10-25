@@ -3,6 +3,7 @@
 
 ---
 
+## 📫 How to Reach Me
 <p align="left">
   <a href="mailto:akkn920@naver.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
@@ -11,6 +12,7 @@
     <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
   </a>
 </p>
+
 
 
 ---
