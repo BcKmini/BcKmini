@@ -16,7 +16,7 @@
     </td>
     <td>
       <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=Bckmini&show_icons=true&theme=radical" alt="GitHub Stats"/>
     </td>
   </tr>
 </table>
