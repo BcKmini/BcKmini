@@ -15,7 +15,7 @@
           <img src="https://img.shields.io/badge/Velog-FF6F61?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
         </a>
       </p>
-      <p>Feel free to reach out via email or check out my latest blog posts on Velog.</p>
+      <p> 🚀 Click the icons below to explore my blog or drop me an email – I’d love to connect! 📬</p>
     </td>
     <td>
       <!-- GitHub Stats -->
