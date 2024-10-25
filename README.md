@@ -7,7 +7,7 @@
   <tr>
     <td>
       <!-- Contact and Blog Badges -->
-      <p align="left">
+      <p align="center">
         <a href="https://velog.io/@mi_nini/posts" target="_blank">
           <img src="https://img.shields.io/badge/Velog-FF6F61?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
         </a>
