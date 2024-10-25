@@ -14,11 +14,11 @@
   <tr>
     <td>
       <!-- Most Used Languages -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=6" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bckmini&layout=compact&theme=radical&langs_count=6" />
     </td>
     <td>
       <!-- Technologies Badges Section -->
-      <h3 align="center">Once I've Used ✏️</h3>
+      <h3 align="left">Once I've Used ✏️</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"/>
