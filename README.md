@@ -11,6 +11,8 @@
 <table>
   <tr>
     <td>
+      <!-- Most Used Languages Section Heading -->
+      <h3 align="center">🛠️ Languages I Use the Most</h3>
       <!-- Most Used Languages -->
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=radical&langs_count=6" />
     </td>
@@ -29,9 +31,3 @@
     </td>
   </tr>
 </table>
-
-
-
-
-
-
