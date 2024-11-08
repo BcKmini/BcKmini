@@ -7,6 +7,7 @@
 
 ![Mini's GitHub stats](https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red)
 
+![Mini's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red)
 
 
 
