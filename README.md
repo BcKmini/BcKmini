@@ -1,7 +1,7 @@
 <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
-# Git 
+# <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="52" height="52" /></div>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red" alt="Mini's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" /> 
@@ -27,15 +27,16 @@
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/><br>
       </p>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="55" height="55" style="margin: 0 20px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="55" height="55" style="margin: 0 20px;" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="55" height="55" style="margin: 0 20px;" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="55" height="55" style="margin: 0 18px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="55" height="55" style="margin: 0 18px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="55" height="55" style="margin: 0 18px;" />
 </p>
 
 # ✍️ Blog
+ <p align="center">
  <a href="https://velog.io/@mi_nini/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-%231572B6.svg?&style=for-the-badge&logo=velog&logoColor=white&color=ff6666" alt="Velog Link" />
-</a>
+ </a></p>
 
 <br><br>
 <a href="https://github.com/devxb/gitanimals">
