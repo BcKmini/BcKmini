@@ -30,10 +30,11 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="55" height="55" style="margin: 0 20px;" />
 </p>
 
-# # Follow
-<a href="https://velog.io/@BcKmini" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-%231572B6.svg?&style=for-the-badge&logo=velog&logoColor=white&color=ff4d4d" alt="Velog Link" />
+# ✍️ Follow
+<a href="https://velog.io/@mi_nini/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-%231572B6.svg?&style=for-the-badge&logo=velog&logoColor=white&color=ff6666" alt="Velog Link" />
 </a>
+
 
 
 <a href="https://github.com/devxb/gitanimals">
