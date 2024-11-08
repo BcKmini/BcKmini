@@ -1,5 +1,7 @@
 <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
+
+![](https://visitor-badge.glitch.me/badge?page_id=BcKmini)
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /></div>
 
 <a href="https://github.com/devxb/gitanimals">
@@ -11,23 +13,7 @@
 </a>
   
 
-<table>
-  <tr>
-    <td>
-      <!-- Contact and Blog Badges -->
-      <p align="center">
-        <a href="https://velog.io/@mi_nini/posts" target="_blank">
-          <img src="https://img.shields.io/badge/Velog-FF6F61?style=for-the-badge&logo=velog&logoColor=white" alt="Velog Badge"/>
-        </a>
-      </p>
-      <p> 🚀 Click the icons below to explore my blog </p>
-    </td>
-    <td>
-      <!-- GitHub Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Bckmini&show_icons=true&theme=radical" alt="GitHub Stats"/>
-    </td>
-  </tr>
-</table>
+
 
 
 
@@ -44,12 +30,13 @@
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/><br>
       </p>
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="55" height="55" style="margin: 0 20px;" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="55" height="55" style="margin: 0 20px;" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="55" height="55" style="margin: 0 20px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="55" height="55" style="margin: 0 20px;" />
 </p>
 
+
+<p> 🚀 Click the icons below to explore my blog </p>
 
 
 
