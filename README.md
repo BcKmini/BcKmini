@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BcKmini)
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="126" height="100" /></div>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
