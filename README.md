@@ -4,10 +4,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red" alt="Mini's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" /> <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width=94%/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" /> 
 </p>
-
+<br><br>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width=94%/>
+</p>
 
 
 
@@ -23,6 +25,9 @@
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/> <br>
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> 
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/><br>
+   <a href="https://velog.io/@mi_nini/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-%231572B6.svg?&style=for-the-badge&logo=velog&logoColor=white&color=ff6666" alt="Velog Link" />
+</a>
       </p>
 <p align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="55" height="55" style="margin: 0 20px;" />
@@ -30,10 +35,7 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="55" height="55" style="margin: 0 20px;" />
 </p>
 
-# ✍️ Follow
-<a href="https://velog.io/@mi_nini/posts" target="_blank">
-    <img src="https://img.shields.io/badge/Velog-%231572B6.svg?&style=for-the-badge&logo=velog&logoColor=white&color=ff6666" alt="Velog Link" />
-</a>
+
 
 
 
