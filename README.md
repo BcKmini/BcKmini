@@ -5,7 +5,7 @@
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /></div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BcKmini&theme=shadow_red_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BcKmini&theme=red&shadow_icons=true)
 
 
 
