@@ -1,7 +1,7 @@
 <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
-# <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="81" height="81" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git</span>
+# <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red" alt="Mini's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" /> 
