@@ -44,18 +44,6 @@
       <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/><br>
     </td>
   </tr>
-  <tr>
-    <!-- GitAnimals Image -->
-    <td colspan="2" align="center">
-      <a href="https://github.com/devxb/gitanimals">
-        <img
-          src="https://render.gitanimals.org/lines/BcKmini?pet-id=642616014575483109"
-          width="600"
-          height="120"
-          alt="GitAnimals"
-        />
-      </a>
-    </td>
   </tr>
 </table>
 
