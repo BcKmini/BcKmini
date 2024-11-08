@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red" alt="Mini's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" /> <br>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width=94%/>
 </p>
 
@@ -30,16 +30,17 @@
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="55" height="55" style="margin: 0 20px;" />
 </p>
 
+# # Follow
+<a href="https://velog.io/@BcKmini" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-%231572B6.svg?&style=for-the-badge&logo=velog&logoColor=white&color=ff4d4d" alt="Velog Link" />
+</a>
 
-<p> 🚀 Click the icons below to explore my blog </p>
 
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/BcKmini?pet-id=642680464296876111"
     width="600"
-    height="120"
-  />
-</a>
+    height="120"/> </a>
 
 
 
