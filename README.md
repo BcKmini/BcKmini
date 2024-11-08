@@ -10,8 +10,6 @@
 
 
 
-![3D GitHub Profile Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=BcKmini&theme=red&flat=true)
-
 
 
   
