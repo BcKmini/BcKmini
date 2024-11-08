@@ -43,11 +43,11 @@
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> 
         <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/><br>
       </p>
-<div style="display: flex; justify-content: center; align-items: center; width: 100vw; height: 100vh; background-color: #2e2e2e;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="60" height="60" />
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <div><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="55" height="55" /></div>
+  <div><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" /></div>
+  <div><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="55" height="55" /></div>
+  <div><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" /></div>
 </div>
 
 
