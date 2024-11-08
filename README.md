@@ -38,12 +38,16 @@
     <img src="https://img.shields.io/badge/Velog-%231572B6.svg?&style=for-the-badge&logo=velog&logoColor=white&color=ff6666" alt="Velog Link" />
  </a></p>
 
-<br><br>
+<br>
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/BcKmini?pet-id=642680464296876111"
+    src="https://render.gitanimals.org/lines/BcKmini?pet-id=642616014575483109"
     width="600"
-    height="120"/> </a>
+    height="120"
+  />
+</a>
+  
 
 
 
