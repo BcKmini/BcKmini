@@ -25,7 +25,9 @@
   
 
 ---
-<table>
+
+
+<table width="100%">
   <tr>
     <!-- Most Used Languages -->
     <td align="center" width="50%">
@@ -56,4 +58,10 @@
     </td>
   </tr>
 </table>
+
+<!-- Ghost Image -->
+<div align="center" style="margin-top: 20px;">
+  <img src="https://render.gitanimals.org/lines/BcKmini?pet-id=642616014575483109" alt="Ghost Animation" width="150" height="100" />
+</div>
+
 
