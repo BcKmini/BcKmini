@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red" alt="Mini's GitHub stats" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width=94%/>
 </p>
 
 
