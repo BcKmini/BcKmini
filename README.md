@@ -1,13 +1,13 @@
 <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
-![](https://visitor-badge.glitch.me/badge?page_id=BcKmini)
 
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /></div>
 
-![Mini's GitHub stats](https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red)
-
-![Mini's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&theme=shadow_red" alt="Mini's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" />
+</p>
 
 
 
