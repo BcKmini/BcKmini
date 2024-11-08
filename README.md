@@ -7,8 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" height="165" />
 </p>
 
+
+
 ![3D GitHub Profile Contribution Graph](https://github-profile-3d-contrib.vercel.app/api?username=BcKmini&theme=red&flat=true)
-![GitHub Contribution Graph](https://github.com/BcKmini/BcKmini/blob/output/github-contribution-grid-snake.svg)
+
 
 
   
