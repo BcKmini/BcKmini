@@ -3,17 +3,9 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=BcKmini)
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="126" height="100" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /></div>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/BcKmini?pet-id=642680464296876111"
-    width="600"
-    height="120"
-  />
-</a>
-  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BcKmini&theme=shadow_red_icons=true)
 
 
 
@@ -39,6 +31,13 @@
 
 <p> 🚀 Click the icons below to explore my blog </p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/BcKmini?pet-id=642680464296876111"
+    width="600"
+    height="120"
+  />
+</a>
 
 
 
