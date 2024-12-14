@@ -5,6 +5,16 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBcKmini&count_bg=%23F05B5B&title_bg=%23555555&icon=github.svg&icon_color=%23D45C5C&title=Today+Visit&edge_flat=false"/></a>
 </p>
 
+---
+
+<!-- Recommendation for Dark Mode -->
+<div align="center" style="background-color: #1e1e1e; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
+  <img src="https://img.icons8.com/ios-filled/50/FF4500/half-moon.png" alt="Moon Icon" width="40" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="color: white; font-size: 18px; font-weight: bold;">It is recommended to view this page in Dark Mode for the best experience.</span>
+</div>
+
+---
+
 # <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git</span>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Mini's GitHub stats" height="165" />
@@ -14,13 +24,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width=94%/>
 </p>
-
-
-
-
-
-
-
 
 ---
 
@@ -53,15 +56,3 @@
     height="120"
   />
 </a>
-
-
-  
-
-
-
-
-
-
-  
-
-
