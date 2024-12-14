@@ -8,10 +8,9 @@
 ---
 
 <!-- Recommendation for Dark Mode -->
-<div align="center" style="background-color: #1e1e1e; padding: 10px; border-radius: 10px; margin-bottom: 20px;">
-  <img src="https://img.icons8.com/ios-filled/50/FF4500/half-moon.png" alt="Moon Icon" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="color: white; font-size: 18px; font-weight: bold;">It is recommended to view this page in Dark Mode for the best experience.</span>
-</div>
+<p align="center" style="font-weight: bold; font-size: 18px;">
+  🌙 <span style="color: #FF4500;">It is recommended to view this page in Dark Mode for the best experience.</span> 🌙
+</p>
 
 ---
 
