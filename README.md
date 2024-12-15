@@ -3,8 +3,11 @@
 
 <!-- Recommendation for Dark Mode -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=100&section=header&text=Dark%20Mode%20Recommended&fontColor=ffffff&fontSize=24&animation=fadeIn" alt="Dark Mode Recommended" />
+  <a href="https://github.com/settings/appearance" target="_blank">
+    <img src="https://user-images.githubusercontent.com/your-darkmode-gif.gif" alt="Dark Mode Switch GIF" width="300" />
+  </a>
 </p>
+
 
 
 
