@@ -7,17 +7,17 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBcKmini&count_bg=%23F05B5B&title_bg=%23555555&icon=github.svg&icon_color=%23D45C5C&title=Today+Visit&edge_flat=false"/></a>
 </p>
 
-┌──────────────────────────────────────────────────────────┐
-│ 🤖  ░▒▓█  AI DARK MODE RECOMMENDED FOR MACHINE LEARNING █▓▒░  │
-├──────────────────────────────────────────────────────────┤
-│ NEURAL NETWORK INITIALIZATION:                          │
-│   INPUT LAYER: 01000001 01001001 01000001               │
-│   HIDDEN LAYER: 01101101 01101111 01100100 01100101     │
-│   OUTPUT LAYER: 🌌 "DARK MODE ENGAGED" 🌌               │
-├──────────────────────────────────────────────────────────┤
-│ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ │
-│ ░▒▓█   DARK MODE ENABLES BETTER AI DEVELOPMENT FOCUS █▓▒░ │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐   
+│ 💻  DARK MODE RECOMMENDED                                │      
+├──────────────────────────────────────────────────────────┤   
+│ NEURAL NETWORK INITIALIZATION:                          │     
+│   INPUT LAYER: 01000001 01001001 01000001               │     
+│   HIDDEN LAYER: 01101101 01101111 01100100 01100101     │      
+│   OUTPUT LAYER: 🌌 "DARK MODE ENGAGED" 🌌               │   
+├──────────────────────────────────────────────────────────┤   
+│                                                          │    
+│                                                          │   
+└──────────────────────────────────────────────────────────┘       
 
 
 
