@@ -10,7 +10,6 @@
 
 
 
----
 
 # <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git</span>
 <p align="center">
