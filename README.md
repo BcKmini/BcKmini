@@ -3,12 +3,14 @@
 
 <!-- Recommendation for Dark Mode -->
 
+<pre align="center" style="background-color: #1F1F1F; color: #FF4500; font-weight: bold; font-size: 16px;">
+████████████████████████████████
+█─▄▄▄▄█─▄▄▄─█─▄▄▄▄█─▄▄▄▄█─▄▄─█
+█▄▄▄▄─█─███─█▄▄▄▄─█▄▄▄▄─█─██─█
+▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀
+</pre>
 <p align="center">
-  <img src="https://img.shields.io/badge/Dark%20Mode%20Recommended-333333?style=flat&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  🌙 <strong style="color: #FF4500;">Enjoy the Best Experience in Dark Mode!</strong> 🌙
+  🌙 <strong style="color: #FF4500; font-size: 18px;">Dark Mode Recommended</strong> 🌙
 </p>
 
 
