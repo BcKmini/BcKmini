@@ -2,10 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
 <!-- Recommendation for Dark Mode -->
+
 <p align="center">
-  <a href="https://github.com/settings/appearance" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/%E2%98%80%20Dark%20Mode%20Recommended-333333?style=for-the-badge&logo=github&logoColor=FF4500" alt="Dark Mode Switch" />
-  </a>
+  <img src="https://img.shields.io/badge/Dark%20Mode%20Recommended-333333?style=flat&logo=github&logoColor=white" />
+</p>
+
+<p align="center">
+  🌙 <strong style="color: #FF4500;">Enjoy the Best Experience in Dark Mode!</strong> 🌙
 </p>
 
 
