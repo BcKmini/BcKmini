@@ -3,10 +3,11 @@
 
 <!-- Recommendation for Dark Mode -->
 <p align="center">
-  <a href="https://github.com/settings/appearance" target="_blank">
-    <img src="https://user-images.githubusercontent.com/your-darkmode-gif.gif" alt="Dark Mode Switch GIF" width="300" />
+  <a href="https://github.com/settings/appearance" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/%E2%98%80%20Dark%20Mode%20Recommended-333333?style=for-the-badge&logo=github&logoColor=FF4500" alt="Dark Mode Switch" />
   </a>
 </p>
+
 
 
 
