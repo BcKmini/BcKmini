@@ -3,16 +3,9 @@
 
 <!-- Recommendation for Dark Mode -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url-here/dark-mode-banner.png" alt="Dark Mode Recommended" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=333333&height=100&section=header&text=Dark%20Mode%20Recommended&fontColor=ffffff&fontSize=24&animation=fadeIn" alt="Dark Mode Recommended" />
 </p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-url-here/dark-mode-icon.png" width="100" alt="Dark Mode Icon" />
-</p>
-<p align="center">
-  <strong style="font-size: 18px; color: #FF4500;">
-    For the best viewing experience, switch to Dark Mode!
-  </strong>
-</p>
+
 
 
 <p align="center">
