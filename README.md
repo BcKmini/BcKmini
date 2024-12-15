@@ -1,16 +1,11 @@
 <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
-<!-- Recommendation for Dark Mode -->
-
-<pre align="center" style="background-color: #1F1F1F; color: #FF4500; font-weight: bold; font-size: 16px;">
-████████████████████████████████
-█─▄▄▄▄█─▄▄▄─█─▄▄▄▄█─▄▄▄▄█─▄▄─█
-█▄▄▄▄─█─███─█▄▄▄▄─█▄▄▄▄─█─██─█
-▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▄▀▄▄▄▄▀
-</pre>
+<!-- 다크 모드 추천 이미지 -->
 <p align="center">
-  🌙 <strong style="color: #FF4500; font-size: 18px;">Dark Mode Recommended</strong> 🌙
+  <a href="https://github.com/settings/appearance" target="_blank">
+    <img src="https://user-images.githubusercontent.com/115251283/148142318-3c174d80-7056-4655-8f04-fbe74d3e72b2.png" alt="Dark Mode Toggle" width="600" />
+  </a>
 </p>
 
 
