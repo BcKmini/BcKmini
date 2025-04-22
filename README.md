@@ -9,8 +9,8 @@
 # <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Mini's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Mini's GitHub stats" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" width="43%" />
 </p>
 
 <br>
