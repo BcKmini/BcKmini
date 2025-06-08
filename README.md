@@ -1,35 +1,34 @@
  <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
-<!-- <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBcKmini&count_bg=%23F05B5B&title_bg=%23555555&icon=github.svg&icon_color=%23D45C5C&title=Today+Visit&edge_flat=false"/></a>
-</p>
--->
+<!-- Git Stats & Languages 카드 -->
+<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin:32px 0;">
+  <!-- GitHub Stats 카드 -->
+  <div style="flex:1; min-width:280px; max-width:360px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
+      alt="Mini's GitHub stats"
+      style="width:100%; height:auto;"
+    />
+  </div>
 
-
-<!-- Git Stats 카드 레이아웃 -->
-<div align="center" style="margin:32px 0;">
-  <div style="display:flex; justify-content:center; gap:16px; width:100%; max-width:800px;">
-
-<!-- Stats 카드 -->
-<div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
- <img
-   src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
-   alt="Mini's GitHub stats"
-   style="width:100%; height:auto;"
- />
+  <!-- Most Used Languages 카드 -->
+  <div style="flex:1; min-width:280px; max-width:360px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
+      alt="Most Used Languages"
+      style="width:100%; height:auto;"
+    />
+  </div>
 </div>
 
-<!-- Languages 카드 -->
-<div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
- <img
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
-   alt="Mini's Top Langs"
-   style="width:100%; height:auto;"
- />
- </div>
-    
-  </div>
+<!-- Contribution Graph -->
+<div align="center" style="margin-bottom:32px;">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d"
+    alt="Mini's Contribution Graph"
+    style="width:90%; max-width:800px; height:auto; border:1px solid #30363d; border-radius:8px;"
+  />
 </div>
 
 
