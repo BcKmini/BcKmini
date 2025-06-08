@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
 <!-- Stats & Languages 카드 나란히 배치 -->
-<div align="center" style="width:100%; margin:32px 0;">
+<div align="center" style="width:50%; margin:32px 0;">
   <div style="
     display:flex;
     justify-content:center;
