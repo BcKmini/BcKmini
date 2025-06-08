@@ -7,17 +7,31 @@
 -->
 
 
-# <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git Stats</span>
+<!-- Git Stats 카드 레이아웃 -->
+<div align="center" style="margin:32px 0;">
+  <div style="display:flex; justify-content:center; gap:16px; width:100%; max-width:800px;">
+    
+    <!-- Stats 카드 -->
+    <div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
+        alt="Mini's GitHub stats"
+        style="width:100%; height:auto;"
+      />
+    </div>
+    
+    <!-- Languages 카드 -->
+    <div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
+        alt="Mini's Top Langs"
+        style="width:100%; height:auto;"
+      />
+    </div>
+    
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Mini's GitHub stats" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" width="43%" />
-</p>
-
-<br>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width="94%" />
-</p>
 
 ---
 
