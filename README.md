@@ -10,24 +10,24 @@
 <!-- Git Stats 카드 레이아웃 -->
 <div align="center" style="margin:32px 0;">
   <div style="display:flex; justify-content:center; gap:16px; width:100%; max-width:800px;">
-    
-    <!-- Stats 카드 -->
-    <div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
-        alt="Mini's GitHub stats"
-        style="width:100%; height:auto;"
-      />
-    </div>
-    
-    <!-- Languages 카드 -->
-    <div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
-        alt="Mini's Top Langs"
-        style="width:100%; height:auto;"
-      />
-    </div>
+
+<!-- Stats 카드 -->
+<div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+ <img
+   src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
+   alt="Mini's GitHub stats"
+   style="width:100%; height:auto;"
+ />
+</div>
+
+<!-- Languages 카드 -->
+<div style="flex:1; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+ <img
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
+   alt="Mini's Top Langs"
+   style="width:100%; height:auto;"
+ />
+ </div>
     
   </div>
 </div>
