@@ -21,7 +21,8 @@
 
 ---
 
-# 💻 Stack                                                                                                 |
+# 💻 Stack
+
 | 프론트엔드    | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" /> |
 | 백엔드        | <img src="https://skillicons.dev/icons?i=python,php,c" />                        |
 | 데이터베이스 | <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />               |
