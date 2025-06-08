@@ -22,11 +22,38 @@
 ---
 
 # 💻 Stack
-| 프론트엔드    | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" /> |
-| 백엔드        | <img src="https://skillicons.dev/icons?i=python,php,c" />                        |
-| 데이터베이스 | <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />               |
-| 프레임워크    | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,sklearn,tensorflow" /> |
-| DevOps/인프라 | <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,cloudflare,github,notion,discord,anaconda,vscode,raspberrypi" /> |
+<table>
+  <tr>
+    <td>프론트엔드</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" />
+    </td>
+  </tr>
+  <tr>
+    <td>백엔드</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,php,c" />
+    </td>
+  </tr>
+  <tr>
+    <td>데이터베이스</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
+    </td>
+  </tr>
+  <tr>
+    <td>프레임워크</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,sklearn,tensorflow" />
+    </td>
+  </tr>
+  <tr>
+    <td>DevOps/인프라</td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,cloudflare,github,notion,discord,anaconda,vscode,raspberrypi" />
+    </td>
+  </tr>
+</table>
 
 
 # ✍️ Blog
