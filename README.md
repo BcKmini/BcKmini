@@ -57,6 +57,11 @@
 
 <br>
 
-<a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/lines/BcKmini?pet-id=642616014575483109" width="600" height="120" />
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BcKmini&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/BcKmini?pet-id=667739248840963548"
+    width="600"
+    height="120"
+  />
 </a>
+  
