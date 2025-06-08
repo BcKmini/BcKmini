@@ -1,25 +1,23 @@
-<!-- Header Image (가운데 정렬) -->
+ <!-- Header Image -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
+
+<!-- <p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBcKmini&count_bg=%23F05B5B&title_bg=%23555555&icon=github.svg&icon_color=%23D45C5C&title=Today+Visit&edge_flat=false"/></a>
+</p>
+-->
+
+
+# <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git Stats</span>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Mini's GitHub stats" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" width="43%" />
 </p>
 
-<!-- Git Stats 제목·아이콘 (가운데 정렬, 크기·간격 조정) -->
-<div align="center" style="margin-top:20px;">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="32" height="32" style="vertical-align:middle;" />
-  <span style="font-size:24px; font-weight:bold; vertical-align:middle; margin-left:8px;">Git Stats</span>
-</div>
-
-<!-- GitHub Stats 이미지 (가로 45% 동일 크기, 가운데 정렬, 간격 5% 유지) -->
-<p align="center" style="margin-top:16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Mini's GitHub stats" width="45%" style="margin-right:5%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" width="45%" />
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width="94%" />
 </p>
-
-<!-- Activity Graph (가로 90% 고정, 가운데 정렬) -->
-<p align="center" style="margin-top:16px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" alt="Mini's Contribution Graph" width="90%" />
-</p>
-
 
 ---
 
