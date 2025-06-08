@@ -1,24 +1,32 @@
  <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
-<!-- Git Stats & Languages 카드 -->
-<div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin:32px 0;">
-  <!-- GitHub Stats 카드 -->
-  <div style="flex:1; min-width:140px; max-width:180px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
-      alt="Mini's GitHub stats"
-      style="width:50%; height:auto;"
-    />
-  </div>
-
-  <!-- Most Used Languages 카드 -->
-  <div style="flex:1; min-width:140px; max-width:180px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
-      alt="Most Used Languages"
-      style="width:50%; height:auto;"
-    />
+<!-- Stats & Languages 카드 나란히 배치 -->
+<div align="center" style="width:100%; margin:32px 0;">
+  <div style="
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:16px;
+    max-width:820px;
+    margin:0 auto;
+  ">
+    <!-- GitHub Stats 카드 (왼쪽) -->
+    <div style="flex:0 0 calc(50% - 8px);">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
+        alt="Mini's GitHub stats"
+        style="width:100%; height:auto; max-width:400px;"
+      />
+    </div>
+    <!-- Most Used Languages 카드 (오른쪽) -->
+    <div style="flex:0 0 calc(50% - 8px);">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
+        alt="Most Used Languages"
+        style="width:100%; height:auto; max-width:400px;"
+      />
+    </div>
   </div>
 </div>
 
@@ -30,6 +38,7 @@
     style="width:90%; max-width:800px; height:auto; border:1px solid #30363d; border-radius:8px;"
   />
 </div>
+
 
 
 ---
