@@ -4,20 +4,20 @@
 <!-- Git Stats & Languages 카드 -->
 <div align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:16px; margin:32px 0;">
   <!-- GitHub Stats 카드 -->
-  <div style="flex:1; min-width:280px; max-width:360px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+  <div style="flex:1; min-width:140px; max-width:180px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
     <img
       src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
       alt="Mini's GitHub stats"
-      style="width:100%; height:auto;"
+      style="width:50%; height:auto;"
     />
   </div>
 
   <!-- Most Used Languages 카드 -->
-  <div style="flex:1; min-width:280px; max-width:360px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
+  <div style="flex:1; min-width:140px; max-width:180px; padding:16px; background:#0d1117; border:1px solid #30363d; border-radius:8px;">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
       alt="Most Used Languages"
-      style="width:100%; height:auto;"
+      style="width:50%; height:auto;"
     />
   </div>
 </div>
