@@ -21,20 +21,12 @@
 
 ---
 
-# 🎮 Tech Stack
-<p align="center">
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/> <br>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle"/> 
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/><br>
-</p>
+# 💻 Stack
 
-<p align="center">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python icon" width="55" height="55" style="margin: 0 18px;" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker icon" width="55" height="55" style="margin: 0 18px;" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL icon" width="55" height="55" style="margin: 0 18px;" />
-</p>
+| 프론트엔드 | 백엔드 | 데이터베이스 | 프레임워크 |
+| :--------: | :-----: | :----------: | :---------: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" /> | <img src="https://skillicons.dev/icons?i=python,php,c,docker,linux,aws" /> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch" /> |
+
 
 # ✍️ Blog
 <p align="center">
