@@ -1,43 +1,23 @@
  <!-- Header Image -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=200&section=header&text=Mini%20Github&fontSize=90" alt="Mini Github Header" />
 
-<!-- Stats & Languages 카드 나란히 배치 -->
-<div align="center" style="width:50%; margin:32px 0;">
-  <div style="
-    display:flex;
-    justify-content:center;
-    flex-wrap:wrap;
-    gap:16px;
-    max-width:820px;
-    margin:0 auto;
-  ">
-    <!-- GitHub Stats 카드 (왼쪽) -->
-    <div style="flex:0 0 calc(50% - 8px);">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red"
-        alt="Mini's GitHub stats"
-        style="width:100%; height:auto; max-width:400px;"
-      />
-    </div>
-    <!-- Most Used Languages 카드 (오른쪽) -->
-    <div style="flex:0 0 calc(50% - 8px);">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red"
-        alt="Most Used Languages"
-        style="width:100%; height:auto; max-width:400px;"
-      />
-    </div>
-  </div>
-</div>
+<!-- <p align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBcKmini&count_bg=%23F05B5B&title_bg=%23555555&icon=github.svg&icon_color=%23D45C5C&title=Today+Visit&edge_flat=false"/></a>
+</p>
+-->
 
-<!-- Contribution Graph -->
-<div align="center" style="margin-bottom:32px;">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d"
-    alt="Mini's Contribution Graph"
-    style="width:90%; max-width:800px; height:auto; border:1px solid #30363d; border-radius:8px;"
-  />
-</div>
+
+# <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git Stats</span>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true&include_all_commits=true&theme=shadow_red" alt="Mini's GitHub stats" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact&theme=shadow_red" alt="Mini's Top Langs" width="43%" />
+</p>
+
+<br>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=shadow_red&bg_color=141321&hide_border=true&line=ff4d4d&color=ff4d4d" width="94%" />
+</p>
 
 
 
