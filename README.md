@@ -21,8 +21,7 @@
 
 ---
 
-# 💻 Stack
-| 카테고리       | 기술 아이콘                                                                                                      |
+# 💻 Stack                                                                                                 |
 |:-------------:|:-----------------------------------------------------------------------------------------------------------------:|
 | 프론트엔드    | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" />                                     |
 | 백엔드        | <img src="https://skillicons.dev/icons?i=python,php,c" />                                                          |
