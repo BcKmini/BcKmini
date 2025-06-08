@@ -22,14 +22,11 @@
 ---
 
 # 💻 Stack                                                                                                 |
-|:-------------:|:-----------------------------------------------------------------------------------------------------------------:|
-| 프론트엔드    | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" />                                     |
-| 백엔드        | <img src="https://skillicons.dev/icons?i=python,php,c" />                                                          |
-| 데이터베이스 | <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />                                                |
-| 프레임워크    | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,sklearn,tensorflow" />                       |
+| 프론트엔드    | <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" /> |
+| 백엔드        | <img src="https://skillicons.dev/icons?i=python,php,c" />                        |
+| 데이터베이스 | <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />               |
+| 프레임워크    | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,sklearn,tensorflow" /> |
 | DevOps/인프라 | <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,cloudflare,github,notion,discord,anaconda,vscode,raspberrypi" /> |
-
-
 
 
 # ✍️ Blog
