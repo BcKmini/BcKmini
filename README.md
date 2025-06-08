@@ -23,9 +23,10 @@
 
 # 💻 Stack
 
-| 프론트엔드 | 백엔드 | 데이터베이스 | 프레임워크 |
-| :--------: | :-----: | :----------: | :---------: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" /> | <img src="https://skillicons.dev/icons?i=python,php,c,docker,linux,aws" /> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch" /> |
+| 프론트엔드        | 백엔드                          | 데이터베이스    | 프레임워크                     | DevOps/인프라                          |
+| :---------------: | :-----------------------------: | :-------------: | :----------------------------: | :------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" /> | <img src="https://skillicons.dev/icons?i=python,php,c" /> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch" /> | <img src="https://skillicons.dev/icons?i=docker,linux,aws,github,notion,raspberrypi,anaconda,vscode" /> |
+
 
 
 # ✍️ Blog
