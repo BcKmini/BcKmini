@@ -26,31 +26,31 @@
 # 💻 Stack
 <table>
   <tr>
-    <td>프론트엔드</td>
+    <td>FE</td>
     <td>
       <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,vite" />
     </td>
   </tr>
   <tr>
-    <td>백엔드</td>
+    <td>BE</td>
     <td>
       <img src="https://skillicons.dev/icons?i=python,php,c" />
     </td>
   </tr>
   <tr>
-    <td>데이터베이스</td>
+    <td>DB</td>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase" />
     </td>
   </tr>
   <tr>
-    <td>프레임워크</td>
+    <td>Framework</td>
     <td>
       <img src="https://skillicons.dev/icons?i=django,flask,fastapi,pytorch,sklearn,tensorflow" />
     </td>
   </tr>
   <tr>
-    <td>DevOps/인프라</td>
+    <td>DevOps</td>
     <td>
       <img src="https://skillicons.dev/icons?i=docker,linux,aws,gcp,cloudflare,github,notion,discord,anaconda,vscode,raspberrypi" />
     </td>
