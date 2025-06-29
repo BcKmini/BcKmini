@@ -52,7 +52,7 @@
   <tr>
     <td>DevOps</td>
     <td>
-      <img src="https://skillicons.dev/icons?i=docker,linux,aws,github,notion,discord,anaconda,vscode,raspberrypi" />
+      <img src="https://skillicons.dev/icons?i=docker,linux,aws,github,notion,discord,anaconda,vscode" />
     </td>
   </tr>
 </table>
