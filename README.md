@@ -68,10 +68,12 @@ src="https://github-profile-trophy.vercel.app/?username=BcKmini&theme=darkhub&no
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BcKmini&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/BcKmini?pet-id=667739248840963548"
-    width="85%"
+    src="https://render.gitanimals.org/lines/BcKmini?pet-id=719596601732430852"
+    width="600"
+    height="120"
   />
 </a>
+  
 
 
 <br>
