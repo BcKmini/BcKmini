@@ -9,10 +9,21 @@
 </p>
 -->
 
+<!-- ======================= VISITOR ======================= -->
+
+
+
+
+
+---
 
 # <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git Stats</span>
 
+
+
 <div align="center">
+ 
+<img src="https://komarev.com/ghpvc/?username=BcKmini&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge" />
 
 <img 
   width="95%"
@@ -41,3 +52,9 @@
     height="120"
   />
 </a>
+
+
+
+
+
+--
