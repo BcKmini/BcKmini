@@ -1,60 +1,77 @@
- <!-- Header Image -->
+<!-- ======================= HEADER ======================= -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=Mini%20Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF4500&height=220&section=header&text=Mini%20Github&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38" /> </p>
 
-<!-- <p align="center">
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBcKmini&count_bg=%23F05B5B&title_bg=%23555555&icon=github.svg&icon_color=%23D45C5C&title=Today+Visit&edge_flat=false"/></a>
-</p>
--->
-
-<!-- ======================= VISITOR ======================= -->
-
-
-
-
-
----
-
-# <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub icon" width="51" height="51" /> <span style="font-size: 24px; font-weight: bold; margin-left: 20px;">Git Stats</span>
-
-
+<!-- ======================= TERMINAL  ======================= -->
 
 <div align="center">
- 
-<img src="https://komarev.com/ghpvc/?username=BcKmini&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge" />
 
 <img 
-  width="95%"
-  src="https://streak-stats.demolab.com?user=BcKmini&theme=shadow-red&hide_border=true"
+src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&pause=1200&color=8B0000&center=true&vCenter=true&width=900&lines=make+it+simple.;make+it+work.;make+it+better." 
 />
 
 </div>
 
-<div align="center">
+<br>
 
-<img 
-  width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&theme=redical&hide_border=true&radius=12"
-/>
+<!-- ======================= PROFILE ======================= -->
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=BcKmini&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge"/>
 
 </div>
 
 ---
 
+# <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40"/> GitHub Analytics
 
+
+
+<br>
+
+<!-- ======================= STREAK ======================= -->
+
+<div align="center">
+
+<img width="95%"
+src="https://streak-stats.demolab.com?user=BcKmini&theme=dark&background=0D1117&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff&hide_border=true"/>
+
+</div>
+
+<br>
+
+<!-- ======================= GRAPH ======================= -->
+
+<div align="center">
+
+<img width="98%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&bg_color=0D1117&color=ffffff&line=8B0000&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+<br>
+
+
+
+<div align="center">
+
+<img width="98%"
+src="https://github-profile-trophy.vercel.app/?username=BcKmini&theme=darkhub&no-frame=true&row=1&column=7"/>
+
+</div>
+
+
+---
+
+
+<div align="center">
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BcKmini&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/BcKmini?pet-id=667739248840963548"
-    width="600"
-    height="120"
+    width="85%"
   />
 </a>
 
 
-
-
-
---
+<br>
