@@ -17,7 +17,7 @@ src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size
 <!-- ======================= PROFILE ======================= -->
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=BcKmini&label=PROFILE+VIEWS&color=8B0000&style=for-the-badge"/>
+
 
 </div>
 
