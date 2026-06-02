@@ -60,9 +60,6 @@ src="https://github-profile-trophy.vercel.app/?username=BcKmini&theme=dark_lover
 
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact)
-
 ---
 
 
