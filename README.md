@@ -56,12 +56,16 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&bg_c
 <div align="center">
 
 <img width="98%"
-src="https://github-profile-trophy.vercel.app/?username=BcKmini&theme=darkhub&no-frame=true&row=1&column=7"/>
+src="https://github-profile-trophy.vercel.app/?username=BcKmini&theme=dark_lover&no-frame=true&row=1&column=7"/>
 
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BcKmini&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BcKmini&layout=compact)
 
 ---
+
+
 
 
 <div align="center">
