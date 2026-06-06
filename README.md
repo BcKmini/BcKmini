@@ -12,12 +12,6 @@
 
 <br>
 
-<!-- ======================= PROFILE ======================= -->
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BcKmini&color=00d4ff&style=for-the-badge&label=VISITORS"/>
-</div>
-
 ---
 
 <!-- ======================= GITHUB ANALYTICS ======================= -->
@@ -82,20 +76,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Systems"/>
 </div>
-
-<br/>
-
-<!-- CONTACT -->
-<div align="center">
-  <a href="mailto:akkn920@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- ======================= FOOTER ======================= -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=080c14&height=120&section=footer" />
-</p>
