@@ -20,6 +20,11 @@
 
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+</div>
+
+
 <!-- STREAK -->
 <div align="center">
   <img width="95%"
@@ -44,17 +49,8 @@
 
 ---
 
-<!-- GITANIMALS -->
 <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BcKmini&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/BcKmini?pet-id=719596601732430852" width="600" height="120"/>
+    <img src="https://render.gitanimals.org/lines/BcKmini?pet-id=719596601732430852" width="900" />
   </a>
-</div>
-
----
-
-<!-- ======================= TECH STACK ======================= -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
