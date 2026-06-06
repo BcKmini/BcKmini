@@ -8,39 +8,15 @@ class SVGBuilder:
         self.config = config
         self.stats = stats
         self.languages = languages
-        self.theme = config["theme"]
-        self.galaxy_arms = config.get("galaxy_arms", [])
-        self.projects = config.get("projects", [])
 
     def render_galaxy_header(self) -> str:
-        return galaxy_header.render(
-            config=self.config,
-            theme=self.theme,
-            galaxy_arms=self.galaxy_arms,
-            projects=self.projects,
-        )
+        return galaxy_header.generate(config=self.config, stats=self.stats)
 
     def render_stats_card(self) -> str:
-        metrics = self.config["stats"]["metrics"]
-        return stats_card.render(
-            stats=self.stats,
-            metrics=metrics,
-            theme=self.theme,
-        )
+        return stats_card.generate(config=self.config, stats=self.stats)
 
     def render_tech_stack(self) -> str:
-        lang_config = self.config.get("languages", {})
-        return tech_stack.render(
-            languages=self.languages,
-            galaxy_arms=self.galaxy_arms,
-            theme=self.theme,
-            exclude=lang_config.get("exclude", []),
-            max_display=lang_config.get("max_display", 8),
-        )
+        return tech_stack.generate(config=self.config, languages=self.languages)
 
     def render_projects_constellation(self) -> str:
-        return projects_constellation.render(
-            projects=self.projects,
-            galaxy_arms=self.galaxy_arms,
-            theme=self.theme,
-        )
+        return projects_constellation.generate(config=self.config, repos=self.config.get("projects", []))
