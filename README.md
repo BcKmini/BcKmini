@@ -21,7 +21,7 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
+  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
 </div>
 
 
