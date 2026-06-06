@@ -50,7 +50,7 @@
 ---
 
 <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=BcKmini&utm_content=line">
-    <img src="https://render.gitanimals.org/lines/BcKmini?pet-id=719596601732430852" width="900" />
-  </a>
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Bckmini"/>
+</a>
 </div>
