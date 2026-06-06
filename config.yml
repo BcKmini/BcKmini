@@ -1,0 +1,80 @@
+username: BcKmini
+
+profile:
+  name: "Mini"
+  tagline: "Software Engineer & AI Explorer"
+  location: "Republic of Korea"
+  bio: |
+    Software Engineering Major | AI Micro-Degree
+    Building intelligent systems, one commit at a time.
+  philosophy: '"make it simple. make it work. make it better."'
+
+social:
+  email: "akkn920@gmail.com"
+
+galaxy_arms:
+  - name: "AI Engineering"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "PyTorch"
+      - "LangChain"
+      - "Claude API"
+      - "OpenCV"
+  - name: "Web & Backend"
+    color: "dendrite_violet"
+    items:
+      - "FastAPI"
+      - "TypeScript"
+      - "Node.js"
+      - "JavaScript"
+      - "PHP"
+  - name: "DevOps & Tools"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      - "AWS"
+      - "GitHub Actions"
+      - "Linux"
+      - "Git"
+
+projects:
+  - repo: "BcKmini/Claudecode-Agent"
+    arm: 0
+    description: "A Claude Code enhancement kit with multi-agent support."
+  - repo: "BcKmini/CCTV_Timeline"
+    arm: 0
+    description: "Video timeline detection service using computer vision."
+  - repo: "BcKmini/Collection-bird"
+    arm: 2
+    description: "Wildlife data collection service."
+  - repo: "BcKmini/Python_Algorithm"
+    arm: 0
+    description: "Algorithm problem solving with Python."
+
+theme:
+  void: "#0D1117"
+  nebula: "#130800"
+  star_dust: "#3d1500"
+  synapse_cyan: "#FF4500"
+  dendrite_violet: "#FF8C00"
+  axon_amber: "#8B0000"
+  text_bright: "#ffffff"
+  text_dim: "#d4a0a0"
+  text_faint: "#8b6060"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
