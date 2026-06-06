@@ -19,7 +19,7 @@ def generate(config: dict, languages: dict) -> str:
     lang_data = calculate_language_percentages(languages, exclude, max_display)
     arm_colors = resolve_arm_colors(galaxy_arms, theme)
 
-    width = 860
+    width = 960
     height = 520
     pad = 40
     left_w = 370
@@ -131,7 +131,7 @@ def _focus_sectors_radar(galaxy_arms: list, arm_colors: list, panel_w: float, pa
 
     cx = panel_w / 2
     cy = (panel_h - 20) / 2 + 20
-    radar_r = min(cx - 20, cy - 40)
+    radar_r = 145  # fixed: prevents labels overflowing 470px-wide panel
 
     n = len(galaxy_arms)
     rings = 4
@@ -206,7 +206,8 @@ def _focus_sectors_radar(galaxy_arms: list, arm_colors: list, panel_w: float, pa
             f'fill="{color}" text-anchor="{anchor}" opacity="0.9">{esc(arm["name"])}</text>'
         )
         if arm.get("items"):
-            items_str = " · ".join(arm["items"][:3])
+            n_items = 3 if anchor == "middle" else 2
+            items_str = " · ".join(arm["items"][:n_items])
             parts.append(
                 f'<text x="{lx:.1f}" y="{ly + dy_offset + 13:.1f}" class="mono" font-size="9" '
                 f'fill="{theme["text_faint"]}" text-anchor="{anchor}" opacity="0.7">{esc(items_str)}</text>'
