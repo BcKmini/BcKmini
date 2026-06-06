@@ -23,7 +23,7 @@
 <!-- STREAK -->
 <div align="center">
   <img width="95%"
-    src="https://streak-stats.demolab.com?user=BcKmini&theme=dark&background=0D1117&ring=FF4500&fire=00d4ff&currStreakLabel=00d4ff&sideNums=ffffff&currStreakNum=FF4500&dates=94a3b8&sideLabels=a78bfa&hide_border=true"/>
+    src="https://streak-stats.demolab.com?user=BcKmini&theme=dark&background=0D1117&ring=FF4500&fire=FF8C00&currStreakLabel=FF8C00&sideNums=ffffff&currStreakNum=FF4500&dates=94a3b8&sideLabels=94a3b8&hide_border=true"/>
 </div>
 
 <br>
@@ -31,7 +31,7 @@
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&bg_color=0D1117&color=a78bfa&line=FF4500&point=00d4ff&area=true&area_color=FF4500&hide_border=true"/>
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&bg_color=0D1117&color=94a3b8&line=FF4500&point=FF8C00&area=true&area_color=8B0000&hide_border=true"/>
 </div>
 
 <br>
@@ -53,26 +53,8 @@
 
 ---
 
-<!-- ======================= GALAXY PROFILE ======================= -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/galaxy-header.svg" width="850" alt="Galaxy Header"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/stats-card.svg" width="850" alt="Mission Telemetry"/>
-</div>
-
-<br/>
+<!-- ======================= TECH STACK ======================= -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/BcKmini/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850" alt="Featured Systems"/>
 </div>
