@@ -28,7 +28,6 @@ DEMO_LANGUAGES = {
 
 
 def generate(args):
-    """Generate SVGs from config (existing behavior extracted into a function)."""
     logging.basicConfig(
         level=logging.INFO,
         format="%(asctime)s [%(levelname)s] %(message)s",
@@ -37,20 +36,15 @@ def generate(args):
 
     demo = getattr(args, "demo", False)
 
-    # Load config
+    config_path = os.path.join(os.path.dirname(__file__), "..", "config.yml")
     if demo:
         config_path = os.path.join(os.path.dirname(__file__), "..", "config.example.yml")
-    else:
-        config_path = os.path.join(os.path.dirname(__file__), "..", "config.yml")
 
     try:
         with open(config_path, "r") as f:
             config = yaml.safe_load(f)
     except FileNotFoundError:
-        if demo:
-            logger.error("config.example.yml not found.")
-        else:
-            logger.error("config.yml not found. Copy config.example.yml to config.yml and edit it.")
+        logger.error("config.yml not found.")
         sys.exit(1)
 
     try:
@@ -60,7 +54,6 @@ def generate(args):
         sys.exit(1)
 
     username = config["username"]
-
     logger.info("Generating profile SVGs for @%s...", username)
 
     if demo:
@@ -68,7 +61,6 @@ def generate(args):
         stats = DEMO_STATS
         languages = DEMO_LANGUAGES
     else:
-        # Fetch GitHub data
         api = GitHubAPI(username)
 
         logger.info("Fetching stats...")
@@ -88,56 +80,35 @@ def generate(args):
     logger.info("Stats: %s", stats)
     logger.info("Languages: %d found", len(languages))
 
-    # Build SVGs
     builder = SVGBuilder(config, stats, languages)
     output_dir = os.path.join(os.path.dirname(__file__), "..", "assets", "generated")
     os.makedirs(output_dir, exist_ok=True)
 
-    svgs = {
-        "galaxy-header.svg": builder.render_galaxy_header(),
-        "stats-card.svg": builder.render_stats_card(),
-        "tech-stack.svg": builder.render_tech_stack(),
-        "projects-constellation.svg": builder.render_projects_constellation(),
-    }
+    path = os.path.join(output_dir, "tech-stack.svg")
+    with open(path, "w") as f:
+        f.write(builder.render_tech_stack())
+    logger.info("Wrote %s", path)
 
-    for filename, content in svgs.items():
-        path = os.path.join(output_dir, filename)
-        with open(path, "w") as f:
-            f.write(content)
-        logger.info("Wrote %s", path)
-
-    logger.info("Done! 4 SVGs generated.")
+    logger.info("Done!")
 
 
 def main():
     parser = argparse.ArgumentParser(description="Generate Galaxy Profile SVGs")
     subparsers = parser.add_subparsers(dest="command")
 
-    # Subcommand: init
     subparsers.add_parser("init", help="Interactive setup wizard to create config.yml")
 
-    # Subcommand: generate
     gen_parser = subparsers.add_parser("generate", help="Generate SVGs from config")
-    gen_parser.add_argument(
-        "--demo",
-        action="store_true",
-        help="Generate SVGs with demo data (no API calls, uses config.example.yml)",
-    )
+    gen_parser.add_argument("--demo", action="store_true")
 
-    # Top-level --demo for backward compatibility (python -m generator.main --demo)
-    parser.add_argument(
-        "--demo",
-        action="store_true",
-        help="Generate SVGs with demo data (no API calls, uses config.example.yml)",
-    )
+    parser.add_argument("--demo", action="store_true")
 
     args = parser.parse_args()
 
     if args.command == "init":
-        from generator.cli_init import run_init
-        run_init()
+        from generator.cli_init import run_wizard
+        run_wizard()
     else:
-        # Default behavior: generate (supports both `generate --demo` and `--demo`)
         generate(args)
 
 
