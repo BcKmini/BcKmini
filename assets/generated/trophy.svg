@@ -1,8 +1,8 @@
 
     <svg
-      width="800"
-      height="110"
-      viewBox="0 0 800 110"
+      width="455"
+      height="220"
+      viewBox="0 0 455 220"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
     >
@@ -241,7 +241,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         width: 0px;
       }
       to {
-        width: 28.96px;
+        width: 29.119999999999997px;
       }
     }
     #Commits-rank-progress{
@@ -388,8 +388,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="460"
-          y="0"
+          x="0"
+          y="110"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -489,8 +489,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="575"
-          y="0"
+          x="115"
+          y="110"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -590,8 +590,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="690"
-          y="0"
+          x="230"
+          y="110"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -670,7 +670,7 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="0"
+          x="345"
           y="110"
           width="110"
           height="110"
@@ -750,8 +750,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="115"
-          y="110"
+          x="0"
+          y="220"
           width="110"
           height="110"
           viewBox="0 0 110 110"
@@ -830,8 +830,8 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
         </svg>
         
         <svg
-          x="230"
-          y="110"
+          x="115"
+          y="220"
           width="110"
           height="110"
           viewBox="0 0 110 110"
