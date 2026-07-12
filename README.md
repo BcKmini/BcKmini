@@ -44,7 +44,7 @@
 <!-- TROPHY -->
 <div align="center">
   <img width="98%"
-    src="https://github-profile-trophy-eight-beta.vercel.app/?username=BcKmini&theme=dark_lover&no-frame=true&row=1&no-bg=true&margin-w=5&column=7"/>
+    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/trophy.svg"/>
 </div>
 
 ---
