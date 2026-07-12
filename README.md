@@ -44,7 +44,7 @@
 <!-- TROPHY -->
 <div align="center">
   <img width="98%"
-    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/trophy.svg"/>
+    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/trophy.svg?v=1783860886"/>
 </div>
 
 ---
