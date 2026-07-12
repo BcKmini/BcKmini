@@ -22,8 +22,8 @@ jobs:
         with:
           username: BcKmini
           theme: dark_lover
-          column: 7
-          row: 1
+          column: 4
+          row: 2
           margin_w: 5
           no_frame: true
           no_bg: true
