@@ -60,22 +60,22 @@
   <!-- Left panel: Language Telemetry -->
   <g transform="translate(40, 40)">
     <text x="0" y="0" class="mono" font-size="11" font-weight="600" fill="#FF4500" letter-spacing="2" opacity="0.9">LANGUAGE TELEMETRY</text><line x1="0" y1="6" x2="160" y2="6" stroke="#FF4500" stroke-width="1" stroke-opacity="0.4"/>
-<text x="0" y="28" class="mono" font-size="11" fill="#d4a0a0">Jupyter Notebook</text><text x="350" y="28" class="mono" font-size="10" fill="#8b6060" text-anchor="end">95.7%</text>
-<rect x="0" y="32" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="32" width="0" height="7" fill="#8b949e" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="335.0" dur="1.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
-<text x="0" y="72" class="mono" font-size="11" fill="#d4a0a0">Kotlin</text><text x="350" y="72" class="mono" font-size="10" fill="#8b6060" text-anchor="end">1.6%</text>
-<rect x="0" y="76" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="76" width="0" height="7" fill="#A97BFF" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="5.6" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
+<text x="0" y="28" class="mono" font-size="11" fill="#d4a0a0">Jupyter Notebook</text><text x="350" y="28" class="mono" font-size="10" fill="#8b6060" text-anchor="end">95.3%</text>
+<rect x="0" y="32" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="32" width="0" height="7" fill="#8b949e" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="333.6" dur="1.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
+<text x="0" y="72" class="mono" font-size="11" fill="#d4a0a0">Kotlin</text><text x="350" y="72" class="mono" font-size="10" fill="#8b6060" text-anchor="end">1.5%</text>
+<rect x="0" y="76" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="76" width="0" height="7" fill="#A97BFF" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="5.2" dur="1.1s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
 <text x="0" y="116" class="mono" font-size="11" fill="#d4a0a0">TypeScript</text><text x="350" y="116" class="mono" font-size="10" fill="#8b6060" text-anchor="end">1.1%</text>
 <rect x="0" y="120" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="120" width="0" height="7" fill="#3178c6" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="3.9" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
-<text x="0" y="160" class="mono" font-size="11" fill="#d4a0a0">PHP</text><text x="350" y="160" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.5%</text>
-<rect x="0" y="164" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="164" width="0" height="7" fill="#4F5D95" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
-<text x="0" y="204" class="mono" font-size="11" fill="#d4a0a0">JavaScript</text><text x="350" y="204" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.4%</text>
-<rect x="0" y="208" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="208" width="0" height="7" fill="#f1e05a" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
+<text x="0" y="160" class="mono" font-size="11" fill="#d4a0a0">JavaScript</text><text x="350" y="160" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.6%</text>
+<rect x="0" y="164" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="164" width="0" height="7" fill="#f1e05a" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.1" dur="1.3s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
+<text x="0" y="204" class="mono" font-size="11" fill="#d4a0a0">PHP</text><text x="350" y="204" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.5%</text>
+<rect x="0" y="208" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="208" width="0" height="7" fill="#4F5D95" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
 <text x="0" y="248" class="mono" font-size="11" fill="#d4a0a0">Python</text><text x="350" y="248" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.4%</text>
 <rect x="0" y="252" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="252" width="0" height="7" fill="#3572A5" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
-<text x="0" y="292" class="mono" font-size="11" fill="#d4a0a0">Rust</text><text x="350" y="292" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.1%</text>
-<rect x="0" y="296" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="296" width="0" height="7" fill="#dea584" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
-<text x="0" y="336" class="mono" font-size="11" fill="#d4a0a0">SCSS</text><text x="350" y="336" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.1%</text>
-<rect x="0" y="340" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="340" width="0" height="7" fill="#c6538c" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
+<text x="0" y="292" class="mono" font-size="11" fill="#d4a0a0">Vue</text><text x="350" y="292" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.3%</text>
+<rect x="0" y="296" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="296" width="0" height="7" fill="#41b883" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.6s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
+<text x="0" y="336" class="mono" font-size="11" fill="#d4a0a0">Rust</text><text x="350" y="336" class="mono" font-size="10" fill="#8b6060" text-anchor="end">0.1%</text>
+<rect x="0" y="340" width="350" height="7" fill="#3d1500" rx="3"/><rect x="0" y="340" width="0" height="7" fill="#dea584" rx="3" opacity="0.9"><animate attributeName="width" from="0" to="2.0" dur="1.7s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/></rect>
   </g>
   <!-- Right panel: Focus Sectors -->
   <g transform="translate(450, 40)">
