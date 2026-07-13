@@ -20,10 +20,6 @@
 
 <br>
 
-<div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Tech Stack"/>
-</div>
-
 
 <!-- STREAK -->
 <div align="center">
