@@ -45,6 +45,33 @@
 
 ---
 
+<!-- ======================= VELOG ANALYTICS ======================= -->
+
+# 📝 Velog Analytics
+
+<br>
+
+<div align="center">
+  <img width="98%"
+    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/velog-summary.svg"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="98%"
+    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/velog-trend.svg"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img width="98%"
+    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/velog-ranking.svg"/>
+</div>
+
+---
+
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/Bckmini"/>

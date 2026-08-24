@@ -1,6 +1,14 @@
 """SVG Builder — orchestrator connecting config, stats, and templates."""
 
-from generator.templates import galaxy_header, stats_card, tech_stack, projects_constellation
+from generator.templates import (
+    galaxy_header,
+    stats_card,
+    tech_stack,
+    projects_constellation,
+    velog_summary,
+    velog_ranking,
+    velog_trend,
+)
 
 
 class SVGBuilder:
@@ -20,3 +28,12 @@ class SVGBuilder:
 
     def render_projects_constellation(self) -> str:
         return projects_constellation.generate(config=self.config, repos=self.config.get("projects", []))
+
+    def render_velog_summary(self, velog: dict) -> str:
+        return velog_summary.generate(config=self.config, velog=velog)
+
+    def render_velog_ranking(self, posts: list) -> str:
+        return velog_ranking.generate(config=self.config, posts=posts)
+
+    def render_velog_trend(self, history: list) -> str:
+        return velog_trend.generate(config=self.config, history=history)

@@ -57,6 +57,13 @@ def validate_config(config: dict) -> dict:
                 f"theme.{key} must be a valid hex color (e.g. #00d4ff), got '{value}'."
             )
 
+    velog_cfg = config.get("velog")
+    if velog_cfg is not None:
+        if not isinstance(velog_cfg, dict):
+            raise ConfigError("'velog' must be a mapping.")
+        if not velog_cfg.get("username"):
+            raise ConfigError("'velog.username' is required when the 'velog' section is present.")
+
     config["theme"] = resolve_theme(user_theme)
 
     config["profile"].setdefault("tagline", "")

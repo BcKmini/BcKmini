@@ -27,6 +27,45 @@ DEMO_LANGUAGES = {
 }
 
 
+def generate_velog_cards(config: dict, builder: SVGBuilder, output_dir: str) -> None:
+    """velog.username이 설정되어 있고 토큰이 있으면 velog 통계 SVG 3종을 생성한다."""
+    velog_username = (config.get("velog") or {}).get("username")
+    if not velog_username:
+        return
+    if not (os.environ.get("VELOG_ACCESS_TOKEN") and os.environ.get("VELOG_REFRESH_TOKEN")):
+        logger.info("VELOG_ACCESS_TOKEN/VELOG_REFRESH_TOKEN이 없어 velog 카드 생성을 건너뜁니다.")
+        return
+
+    from generator.velog_api import VelogClient, VelogError
+    from generator.velog_history import diff_from_days_ago, update_history
+
+    logger.info("Fetching Velog stats for @%s...", velog_username)
+    try:
+        client = VelogClient(velog_username)
+        velog_stats = client.fetch_user_stats()
+    except VelogError as e:
+        logger.warning("Velog stats 조회 실패 (%s). 이전 SVG를 유지합니다.", e)
+        return
+
+    history_path = os.path.join(os.path.dirname(__file__), "..", "data", "velog_history.json")
+    history = update_history(history_path, velog_stats)
+
+    velog_stats["view_diff"] = diff_from_days_ago(history, 7, "total_views")
+    velog_stats["like_diff"] = diff_from_days_ago(history, 7, "total_likes")
+    velog_stats["post_diff"] = diff_from_days_ago(history, 7, "total_posts")
+
+    outputs = {
+        "velog-summary.svg": builder.render_velog_summary(velog_stats),
+        "velog-ranking.svg": builder.render_velog_ranking(velog_stats["top_posts"]),
+        "velog-trend.svg": builder.render_velog_trend(history),
+    }
+    for name, svg in outputs.items():
+        path = os.path.join(output_dir, name)
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(svg)
+        logger.info("Wrote %s", path)
+
+
 def generate(args):
     logging.basicConfig(
         level=logging.INFO,
@@ -88,6 +127,9 @@ def generate(args):
     with open(path, "w") as f:
         f.write(builder.render_tech_stack())
     logger.info("Wrote %s", path)
+
+    if not demo:
+        generate_velog_cards(config, builder, output_dir)
 
     logger.info("Done!")
 

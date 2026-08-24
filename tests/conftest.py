@@ -52,6 +52,26 @@ SAMPLE_STATS = {
     "repos": 22,
 }
 
+SAMPLE_VELOG_STATS = {
+    "username": "testvelog",
+    "total_views": 12345,
+    "total_likes": 234,
+    "total_posts": 18,
+    "view_diff": 456,
+    "like_diff": -3,
+    "post_diff": 0,
+    "top_posts": [
+        {"title": "가장 인기있는 글", "url_slug": "popular-post", "released_at": "2026-01-01", "views": 5000, "likes": 100},
+        {"title": "두번째로 인기있는 글", "url_slug": "second-post", "released_at": "2026-01-05", "views": 3000, "likes": 60},
+    ],
+}
+
+SAMPLE_VELOG_HISTORY = [
+    {"date": "2026-01-01", "total_views": 10000, "total_likes": 200, "total_posts": 17},
+    {"date": "2026-01-08", "total_views": 11200, "total_likes": 215, "total_posts": 17},
+    {"date": "2026-01-15", "total_views": 12345, "total_likes": 234, "total_posts": 18},
+]
+
 
 @pytest.fixture
 def sample_config():
@@ -66,3 +86,13 @@ def sample_languages():
 @pytest.fixture
 def sample_stats():
     return SAMPLE_STATS
+
+
+@pytest.fixture
+def sample_velog_stats():
+    return SAMPLE_VELOG_STATS
+
+
+@pytest.fixture
+def sample_velog_history():
+    return SAMPLE_VELOG_HISTORY
