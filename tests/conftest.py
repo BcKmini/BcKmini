@@ -64,6 +64,10 @@ SAMPLE_VELOG_STATS = {
         {"title": "가장 인기있는 글", "url_slug": "popular-post", "released_at": "2026-01-01", "views": 5000, "likes": 100},
         {"title": "두번째로 인기있는 글", "url_slug": "second-post", "released_at": "2026-01-05", "views": 3000, "likes": 60},
     ],
+    "recent_posts": [
+        {"title": "가장 최근에 쓴 글", "url_slug": "latest-post", "released_at": "2026-01-15", "views": 800, "likes": 20},
+        {"title": "그 전에 쓴 글", "url_slug": "prior-post", "released_at": "2026-01-05", "views": 3000, "likes": 60},
+    ],
 }
 
 SAMPLE_VELOG_HISTORY = [

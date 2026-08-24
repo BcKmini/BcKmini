@@ -41,10 +41,22 @@ def generate(config: dict, history: list, key: str = "total_views", days: int = 
         f'<text x="24" y="30" class="title" font-family="\'JetBrains Mono\', monospace" font-size="14" font-weight="700">Total Views — Last {days}d</text>',
     ]
 
-    if len(points) < 2:
+    if len(points) == 0:
         parts.append(
             f'<text x="{width/2}" y="{height/2}" text-anchor="middle" class="sub" '
-            f'font-family="\'JetBrains Mono\', monospace" font-size="12">추이를 표시하려면 데이터가 더 필요합니다.</text>'
+            f'font-family="\'JetBrains Mono\', monospace" font-size="12">아직 수집된 데이터가 없습니다.</text>'
+        )
+        parts.append("</svg>")
+        return "\n".join(parts)
+
+    if len(points) == 1:
+        parts.append(
+            f'<text x="{width/2}" y="{height/2 - 6}" text-anchor="middle" class="title" '
+            f'font-family="\'JetBrains Mono\', monospace" font-size="26" font-weight="700">{format_number(points[0].get(key, 0))}</text>'
+        )
+        parts.append(
+            f'<text x="{width/2}" y="{height/2 + 16}" text-anchor="middle" class="sub" '
+            f'font-family="\'JetBrains Mono\', monospace" font-size="11">{esc(points[0]["date"])} · 데이터가 더 쌍이면 추이가 표시됩니다</text>'
         )
         parts.append("</svg>")
         return "\n".join(parts)

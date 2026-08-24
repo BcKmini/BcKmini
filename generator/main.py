@@ -28,7 +28,7 @@ DEMO_LANGUAGES = {
 
 
 def generate_velog_cards(config: dict, builder: SVGBuilder, output_dir: str) -> None:
-    """velog.username이 설정되어 있고 토큰이 있으면 velog 통계 SVG 3종을 생성한다."""
+    """velog.username이 설정되어 있고 토큰이 있으면 velog 통계 SVG를 생성한다."""
     velog_username = (config.get("velog") or {}).get("username")
     if not velog_username:
         return
@@ -57,6 +57,7 @@ def generate_velog_cards(config: dict, builder: SVGBuilder, output_dir: str) -> 
     outputs = {
         "velog-summary.svg": builder.render_velog_summary(velog_stats),
         "velog-ranking.svg": builder.render_velog_ranking(velog_stats["top_posts"]),
+        "velog-recent.svg": builder.render_velog_recent(velog_stats["recent_posts"]),
         "velog-trend.svg": builder.render_velog_trend(history),
     }
     for name, svg in outputs.items():
