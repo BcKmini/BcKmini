@@ -121,12 +121,14 @@ class VelogClient:
                 }
             )
 
-        enriched.sort(key=lambda p: p["views"], reverse=True)
+        top_posts = sorted(enriched, key=lambda p: p["views"], reverse=True)[:5]
+        recent_posts = sorted(enriched, key=lambda p: p["released_at"] or "", reverse=True)[:5]
 
         return {
             "username": self.username,
             "total_views": total_views,
             "total_likes": total_likes,
             "total_posts": len(posts),
-            "top_posts": enriched[:5],
+            "top_posts": top_posts,
+            "recent_posts": recent_posts,
         }

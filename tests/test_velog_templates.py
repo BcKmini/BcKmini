@@ -2,6 +2,7 @@
 
 from generator.templates.velog_summary import generate as velog_summary_generate
 from generator.templates.velog_ranking import generate as velog_ranking_generate
+from generator.templates.velog_recent import generate as velog_recent_generate
 from generator.templates.velog_trend import generate as velog_trend_generate
 
 
@@ -40,13 +41,36 @@ def test_velog_ranking_empty_posts(sample_config):
     assert "데이터가 아직 없습니다" in svg
 
 
+def test_velog_recent_returns_svg(sample_config, sample_velog_stats):
+    svg = velog_recent_generate(sample_config, sample_velog_stats["recent_posts"])
+    assert svg.strip().startswith("<svg")
+    assert "</svg>" in svg
+
+
+def test_velog_recent_contains_titles(sample_config, sample_velog_stats):
+    svg = velog_recent_generate(sample_config, sample_velog_stats["recent_posts"])
+    assert "가장 최근에 쓴 글" in svg
+
+
+def test_velog_recent_empty_posts(sample_config):
+    svg = velog_recent_generate(sample_config, [])
+    assert "<svg" in svg
+    assert "데이터가 아직 없습니다" in svg
+
+
 def test_velog_trend_returns_svg(sample_config, sample_velog_history):
     svg = velog_trend_generate(sample_config, sample_velog_history)
     assert svg.strip().startswith("<svg")
     assert "</svg>" in svg
 
 
-def test_velog_trend_insufficient_history(sample_config):
+def test_velog_trend_no_history(sample_config):
+    svg = velog_trend_generate(sample_config, [])
+    assert "<svg" in svg
+    assert "아직 수집된 데이터가 없습니다" in svg
+
+
+def test_velog_trend_single_point(sample_config):
     svg = velog_trend_generate(sample_config, [{"date": "2026-01-01", "total_views": 100}])
     assert "<svg" in svg
-    assert "추이를 표시하려면" in svg
+    assert "데이터가 더 쌍이면" in svg

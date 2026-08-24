@@ -67,7 +67,7 @@
 
 <div align="center">
   <img width="98%"
-    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/velog-ranking.svg"/>
+    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/velog-recent.svg"/>
 </div>
 
 ---

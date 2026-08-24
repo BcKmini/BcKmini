@@ -7,6 +7,7 @@ from generator.templates import (
     projects_constellation,
     velog_summary,
     velog_ranking,
+    velog_recent,
     velog_trend,
 )
 
@@ -34,6 +35,9 @@ class SVGBuilder:
 
     def render_velog_ranking(self, posts: list) -> str:
         return velog_ranking.generate(config=self.config, posts=posts)
+
+    def render_velog_recent(self, posts: list) -> str:
+        return velog_recent.generate(config=self.config, posts=posts)
 
     def render_velog_trend(self, history: list) -> str:
         return velog_trend.generate(config=self.config, history=history)

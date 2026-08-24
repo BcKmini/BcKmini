@@ -15,5 +15,6 @@
 <rect class="bg" width="860" height="220" rx="12"/>
 <rect x="1" y="1" width="858" height="218" fill="none" class="border" stroke-width="1" stroke-opacity="0.25" rx="12"/>
 <text x="24" y="30" class="title" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700">Total Views — Last 30d</text>
-<text x="430.0" y="110.0" text-anchor="middle" class="sub" font-family="'JetBrains Mono', monospace" font-size="12">추이를 표시하려면 데이터가 더 필요합니다.</text>
+<text x="430.0" y="104.0" text-anchor="middle" class="title" font-family="'JetBrains Mono', monospace" font-size="26" font-weight="700">5.3k</text>
+<text x="430.0" y="126.0" text-anchor="middle" class="sub" font-family="'JetBrains Mono', monospace" font-size="11">2026-08-24 · 데이터가 더 쌍이면 추이가 표시됩니다</text>
 </svg>
