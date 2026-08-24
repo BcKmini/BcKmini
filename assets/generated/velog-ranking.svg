@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="276" viewBox="0 0 860 276">
+<style>
+      .bg { fill: #0D1117; }
+      .border { stroke: #FF4500; }
+      .title { fill: #ffffff; }
+      .sub { fill: #8b6060; }
+      .row-title { fill: #ffffff; }
+      .row-meta { fill: #8b6060; }
+      @media (prefers-color-scheme: light) {
+        .bg { fill: #ffffff; }
+        .title { fill: #1f2328; }
+        .sub { fill: #6e7781; }
+        .row-title { fill: #1f2328; }
+        .row-meta { fill: #6e7781; }
+      }
+    </style>
+<rect class="bg" width="860" height="276" rx="12"/>
+<rect x="1" y="1" width="858" height="274" fill="none" class="border" stroke-width="1" stroke-opacity="0.25" rx="12"/>
+<text x="24" y="34" class="title" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="700">Top Posts (by views)</text>
+<line x1="0" y1="46" x2="860" y2="46" class="border" stroke-width="1" stroke-opacity="0.15"/>
+<text x="24" y="84.0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#8B0000">#1</text>
+<text x="52" y="84.0" class="row-title" font-family="'JetBrains Mono', monospace" font-size="12">KT_AICE_BASIC</text>
+<rect x="284" y="74.0" width="436.0" height="12" rx="3" fill="#FF4500" opacity="0.55"/>
+<text x="836" y="84.0" text-anchor="end" class="row-meta" font-family="'JetBrains Mono', monospace" font-size="11">307 views · 0♥</text>
+<text x="24" y="124.0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#d4a0a0">#2</text>
+<text x="52" y="124.0" class="row-title" font-family="'JetBrains Mono', monospace" font-size="12">학부연구생 1일차</text>
+<rect x="284" y="114.0" width="355.0" height="12" rx="3" fill="#FF4500" opacity="0.55"/>
+<text x="836" y="124.0" text-anchor="end" class="row-meta" font-family="'JetBrains Mono', monospace" font-size="11">250 views · 0♥</text>
+<text x="24" y="164.0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#d4a0a0">#3</text>
+<text x="52" y="164.0" class="row-title" font-family="'JetBrains Mono', monospace" font-size="12">8.24 SQLD 시험</text>
+<rect x="284" y="154.0" width="311.0" height="12" rx="3" fill="#FF4500" opacity="0.55"/>
+<text x="836" y="164.0" text-anchor="end" class="row-meta" font-family="'JetBrains Mono', monospace" font-size="11">219 views · 0♥</text>
+<text x="24" y="204.0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#d4a0a0">#4</text>
+<text x="52" y="204.0" class="row-title" font-family="'JetBrains Mono', monospace" font-size="12">데이터과학_2-2</text>
+<rect x="284" y="194.0" width="267.0" height="12" rx="3" fill="#FF4500" opacity="0.55"/>
+<text x="836" y="204.0" text-anchor="end" class="row-meta" font-family="'JetBrains Mono', monospace" font-size="11">188 views · 0♥</text>
+<text x="24" y="244.0" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="700" fill="#d4a0a0">#5</text>
+<text x="52" y="244.0" class="row-title" font-family="'JetBrains Mono', monospace" font-size="12">24년 컴퓨터공학과 졸업전시회</text>
+<rect x="284" y="234.0" width="262.7" height="12" rx="3" fill="#FF4500" opacity="0.55"/>
+<text x="836" y="244.0" text-anchor="end" class="row-meta" font-family="'JetBrains Mono', monospace" font-size="11">185 views · 0♥</text>
+</svg>
