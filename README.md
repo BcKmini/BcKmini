@@ -55,9 +55,6 @@
   <img width="98%"
     src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/velog-summary.svg"/>
 </div>
-
-<br>
-
 <div align="center">
   <img width="98%"
     src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/velog-recent.svg"/>
