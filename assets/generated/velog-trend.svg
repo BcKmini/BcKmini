@@ -15,8 +15,8 @@
 <rect class="bg" width="860" height="220" rx="12"/>
 <rect x="1" y="1" width="858" height="218" fill="none" class="border" stroke-width="1" stroke-opacity="0.25" rx="12"/>
 <text x="24" y="30" class="title" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700">Total Views — Last 30d</text>
-<path d="M 50.0 184.0 L 106.1 180.8 L 162.3 177.7 L 218.4 173.9 L 274.6 166.9 L 330.7 160.5 L 386.9 152.9 L 443.0 137.1 L 499.1 133.9 L 555.3 118.7 L 611.4 117.4 L 667.6 103.4 L 723.7 97.7 L 779.9 42.5 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
-<path d="M 50.0 184.0 L 106.1 180.8 L 162.3 177.7 L 218.4 173.9 L 274.6 166.9 L 330.7 160.5 L 386.9 152.9 L 443.0 137.1 L 499.1 133.9 L 555.3 118.7 L 611.4 117.4 L 667.6 103.4 L 723.7 97.7 L 779.9 42.5 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
+<path d="M 50.0 184.0 L 106.1 180.9 L 162.3 177.7 L 218.4 174.0 L 274.6 167.1 L 330.7 160.8 L 386.9 153.3 L 443.0 137.7 L 499.1 134.5 L 555.3 119.5 L 611.4 118.3 L 667.6 104.5 L 723.7 98.9 L 779.9 44.4 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
+<path d="M 50.0 184.0 L 106.1 180.9 L 162.3 177.7 L 218.4 174.0 L 274.6 167.1 L 330.7 160.8 L 386.9 153.3 L 443.0 137.7 L 499.1 134.5 L 555.3 119.5 L 611.4 118.3 L 667.6 104.5 L 723.7 98.9 L 779.9 44.4 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
 <circle cx="836.0" cy="40.0" r="4" fill="#FF4500"/>
 <text x="50" y="208" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-08-24</text>
 <text x="836" y="208" text-anchor="end" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-09-07</text>
