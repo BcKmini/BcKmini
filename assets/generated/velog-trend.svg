@@ -15,10 +15,10 @@
 <rect class="bg" width="860" height="220" rx="12"/>
 <rect x="1" y="1" width="858" height="218" fill="none" class="border" stroke-width="1" stroke-opacity="0.25" rx="12"/>
 <text x="24" y="30" class="title" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700">Total Views — Last 30d</text>
-<path d="M 50.0 184.0 L 102.4 181.0 L 154.8 178.0 L 207.2 174.4 L 259.6 167.8 L 312.0 161.8 L 364.4 154.6 L 416.8 139.6 L 469.2 136.6 L 521.6 122.2 L 574.0 121.0 L 626.4 107.8 L 678.8 102.4 L 731.2 50.2 L 783.6 46.0 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
-<path d="M 50.0 184.0 L 102.4 181.0 L 154.8 178.0 L 207.2 174.4 L 259.6 167.8 L 312.0 161.8 L 364.4 154.6 L 416.8 139.6 L 469.2 136.6 L 521.6 122.2 L 574.0 121.0 L 626.4 107.8 L 678.8 102.4 L 731.2 50.2 L 783.6 46.0 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
+<path d="M 50.0 184.0 L 99.1 181.0 L 148.2 178.0 L 197.4 174.5 L 246.5 167.9 L 295.6 162.0 L 344.8 154.8 L 393.9 140.0 L 443.0 137.0 L 492.1 122.7 L 541.2 121.5 L 590.4 108.4 L 639.5 103.1 L 688.6 51.3 L 737.8 47.1 L 786.9 41.2 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
+<path d="M 50.0 184.0 L 99.1 181.0 L 148.2 178.0 L 197.4 174.5 L 246.5 167.9 L 295.6 162.0 L 344.8 154.8 L 393.9 140.0 L 443.0 137.0 L 492.1 122.7 L 541.2 121.5 L 590.4 108.4 L 639.5 103.1 L 688.6 51.3 L 737.8 47.1 L 786.9 41.2 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
 <circle cx="836.0" cy="40.0" r="4" fill="#FF4500"/>
 <text x="50" y="208" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-08-24</text>
-<text x="836" y="208" text-anchor="end" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-09-08</text>
+<text x="836" y="208" text-anchor="end" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-09-09</text>
 <text x="836" y="42" text-anchor="end" class="sub" font-family="'JetBrains Mono', monospace" font-size="11">5.5k</text>
 </svg>
