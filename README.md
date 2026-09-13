@@ -29,11 +29,6 @@
 
 <br>
 
-<!-- ACTIVITY GRAPH -->
-<div align="center">
-  <img width="98%"
-    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/activity-graph.svg"/>
-</div>
 
 <br>
 
