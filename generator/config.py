@@ -1,10 +1,22 @@
 """Config validation and defaults for the Galaxy Profile generator."""
 
+import yaml
+
 from generator.utils import resolve_theme, HEX_COLOR_RE
 
 
 class ConfigError(ValueError):
     """Raised when config.yml has invalid or missing data."""
+
+
+def load_config(path: str) -> dict:
+    """Read and validate a config.yml file, applying defaults."""
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            config = yaml.safe_load(f)
+    except FileNotFoundError:
+        raise ConfigError(f"Config file not found: {path}")
+    return validate_config(config)
 
 
 def validate_config(config: dict) -> dict:

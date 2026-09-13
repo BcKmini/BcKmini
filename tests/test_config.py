@@ -36,18 +36,26 @@ def test_validate_missing_username():
 
 
 def test_validate_galaxy_arms_type():
-    cfg = {"username": "u", "galaxy_arms": "not_a_list"}
+    cfg = {"username": "u", "profile": {"name": "U"}, "galaxy_arms": "not_a_list"}
     with pytest.raises(ConfigError, match="galaxy_arms"):
         validate_config(cfg)
 
 
 def test_validate_passes_minimal():
-    cfg = {"username": "mini"}
+    cfg = {
+        "username": "mini",
+        "profile": {"name": "Mini"},
+        "galaxy_arms": [{"name": "Core", "color": "synapse_cyan", "items": []}],
+    }
     validate_config(cfg)  # should not raise
 
 
 def test_load_applies_defaults(sample_config):
-    path = _write_config({"username": "mini"})
+    path = _write_config({
+        "username": "mini",
+        "profile": {"name": "Mini"},
+        "galaxy_arms": [{"name": "Core", "color": "synapse_cyan", "items": []}],
+    })
     try:
         cfg = load_config(path)
         assert "theme" in cfg
