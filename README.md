@@ -42,7 +42,7 @@
 
 <!-- ======================= VELOG ANALYTICS ======================= -->
 
-# 📝 Velog Analytics
+# Blog Analytics
 
 <br>
 
