@@ -130,6 +130,16 @@ def generate(args):
     logger.info("Wrote %s", path)
 
     if not demo:
+        logger.info("Fetching contribution calendar...")
+        try:
+            calendar = api.fetch_contribution_calendar()
+            path = os.path.join(output_dir, "activity-graph.svg")
+            with open(path, "w") as f:
+                f.write(builder.render_activity_graph(calendar))
+            logger.info("Wrote %s", path)
+        except (requests.exceptions.RequestException, ValueError, KeyError) as e:
+            logger.warning("Could not fetch contribution calendar (%s). Keeping previous activity-graph.svg.", e)
+
         generate_velog_cards(config, builder, output_dir)
 
     logger.info("Done!")

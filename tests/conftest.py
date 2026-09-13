@@ -76,6 +76,14 @@ SAMPLE_VELOG_HISTORY = [
     {"date": "2026-01-15", "total_views": 12345, "total_likes": 234, "total_posts": 18},
 ]
 
+SAMPLE_CALENDAR = [
+    {"date": f"2026-01-{day:02d}", "count": count}
+    for day, count in enumerate(
+        [0, 2, 5, 1, 0, 3, 4, 6, 2, 1, 0, 0, 3, 5, 7, 2, 1, 0, 4, 3, 2, 1, 0, 0, 5, 6, 3, 2, 1, 4, 2],
+        start=1,
+    )
+]
+
 
 @pytest.fixture
 def sample_config():
@@ -100,3 +108,8 @@ def sample_velog_stats():
 @pytest.fixture
 def sample_velog_history():
     return SAMPLE_VELOG_HISTORY
+
+
+@pytest.fixture
+def sample_calendar():
+    return SAMPLE_CALENDAR

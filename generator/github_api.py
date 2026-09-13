@@ -3,6 +3,7 @@
 import logging
 import os
 import time
+from datetime import datetime, timedelta, timezone
 
 import requests
 
@@ -99,6 +100,51 @@ class GitHubAPI:
         pr_count = self._search_count(f"author:{self.username} type:pr")
         issue_count = self._search_count(f"author:{self.username} type:issue")
         return {"commits": commit_count, "stars": total_stars, "prs": pr_count, "issues": issue_count, "repos": user_data.get("public_repos", 0)}
+
+    def fetch_contribution_calendar(self, days: int = 31) -> list:
+        """Last `days` days of daily contribution counts via GraphQL.
+
+        Requires a token (contributionsCollection isn't available over REST).
+        Returns a chronologically-sorted list of {"date": "YYYY-MM-DD", "count": int}.
+        """
+        if not self.token:
+            raise ValueError("GITHUB_TOKEN is required to fetch the contribution calendar.")
+
+        to_dt = datetime.now(timezone.utc)
+        from_dt = to_dt - timedelta(days=days - 1)
+        query = """
+        query($username: String!, $from: DateTime!, $to: DateTime!) {
+          user(login: $username) {
+            contributionsCollection(from: $from, to: $to) {
+              contributionCalendar {
+                weeks {
+                  contributionDays { date contributionCount }
+                }
+              }
+            }
+          }
+        }
+        """
+        variables = {
+            "username": self.username,
+            "from": from_dt.strftime("%Y-%m-%dT00:00:00Z"),
+            "to": to_dt.strftime("%Y-%m-%dT23:59:59Z"),
+        }
+        resp = self._request("POST", self.GRAPHQL_URL, json={"query": query, "variables": variables})
+        resp.raise_for_status()
+
+        data = resp.json()
+        if "errors" in data:
+            raise ValueError(f"GraphQL errors: {data['errors']}")
+
+        weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
+        calendar = [
+            {"date": d["date"], "count": d["contributionCount"]}
+            for week in weeks
+            for d in week["contributionDays"]
+        ]
+        calendar.sort(key=lambda d: d["date"])
+        return calendar[-days:]
 
     def _paginate_repos(self):
         page = 1

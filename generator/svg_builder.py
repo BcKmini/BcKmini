@@ -1,6 +1,7 @@
 """SVG Builder — orchestrator connecting config, stats, and templates."""
 
 from generator.templates import (
+    activity_graph,
     galaxy_header,
     stats_card,
     tech_stack,
@@ -41,3 +42,6 @@ class SVGBuilder:
 
     def render_velog_trend(self, history: list) -> str:
         return velog_trend.generate(config=self.config, history=history)
+
+    def render_activity_graph(self, calendar: list) -> str:
+        return activity_graph.generate(config=self.config, calendar=calendar)

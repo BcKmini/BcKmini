@@ -32,7 +32,7 @@
 <!-- ACTIVITY GRAPH -->
 <div align="center">
   <img width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BcKmini&bg_color=0D1117&color=94a3b8&line=FF4500&point=FF8C00&area=true&area_color=8B0000&hide_border=true"/>
+    src="https://raw.githubusercontent.com/BcKmini/BcKmini/main/assets/generated/activity-graph.svg"/>
 </div>
 
 <br>
