@@ -95,7 +95,10 @@ class VelogClient:
             data = self._post(V2_CDN_URL, POST_STATS_QUERY, {"post_id": post_id}, "GetStats")
             stats = data.get("getStats") or {}
             return int(stats.get("total", 0) or 0)
-        except VelogError as e:
+        except (VelogError, requests.exceptions.RequestException) as e:
+            # v2cdn.velog.io는 벨로그 쪽 CDN 인증서 문제로 통째로 안 열릴 때가 있다
+            # (SSLError 등 requests 레벨 예외는 VelogError로 안 감싸여 있었음).
+            # 조회수는 부가 정보이므로 실패해도 전체 생성은 계속 진행한다.
             logger.warning("게시글 조회수 조회 실패 (post_id=%s): %s", post_id, e)
             return 0
 
