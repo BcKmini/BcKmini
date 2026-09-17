@@ -9,6 +9,10 @@ on:
       - "config.yml"
       - "generator/**"
 
+concurrency:
+  group: generate-profile
+  cancel-in-progress: false
+
 jobs:
   generate:
     name: Generate galaxy profile assets
@@ -42,5 +46,12 @@ jobs:
           if [ -f data/velog_history.json ]; then git add data/velog_history.json; fi
           if ! git diff --staged --quiet; then
             git commit -m "chore: update profile SVGs [skip ci]"
+            for i in 1 2 3; do
+              if git push; then
+                exit 0
+              fi
+              echo "push rejected, rebasing onto latest main and retrying ($i/3)..."
+              git pull --rebase origin main
+            done
             git push
           fi
