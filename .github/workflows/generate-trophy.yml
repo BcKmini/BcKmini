@@ -21,7 +21,14 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           username: BcKmini
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # 기본 GITHUB_TOKEN(Actions 자동 발급 토큰)으로는 organizations/
+          # followers 등 GraphQL user 필드를 못 읽어와서 항상 "Failed to
+          # fetch user info"로 실패했음(로컬에서 개인 PAT로는 동일 코드가
+          # 정상 동작하는 것으로 확인). TROPHY_TOKEN이라는 이름으로
+          # read:user, read:org 스코프의 개인 액세스 토큰(PAT)을 저장소
+          # Settings > Secrets에 등록해야 실제로 동작함 — 등록 전까지는
+          # GITHUB_TOKEN으로 폴백하되 계속 실패할 수 있음.
+          token: ${{ secrets.TROPHY_TOKEN || secrets.GITHUB_TOKEN }}
           theme: dark_lover
           column: 4
           no_frame: true
