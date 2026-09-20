@@ -24,7 +24,7 @@
 <!-- STREAK -->
 <div align="center">
   <img width="95%"
-    src="https://streak-stats.demolab.com?user=BcKmini&theme=dark&background=0D1117&ring=FF4500&fire=FF8C00&currStreakLabel=FF8C00&sideNums=ffffff&currStreakNum=FF4500&dates=94a3b8&sideLabels=94a3b8&hide_border=true"/>
+    src="https://streak-stats.demolab.com?user=BcKmini&theme=dark&background=0D1117&ring=FF4500&fire=FF8C00&currStreakLabel=FF8C00&sideNums=ffffff&currStreakNum=FF4500&dates=94a3b8&sideLabels=94a3b8&hide_border=true&disable_animations=true"/>
 </div>
 
 <br>

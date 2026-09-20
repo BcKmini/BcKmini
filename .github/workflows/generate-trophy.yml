@@ -21,10 +21,9 @@ jobs:
       - uses: qoomon/github-profile-trophy@master
         with:
           username: BcKmini
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: dark_lover
           column: 4
-          row: 2
-          margin_w: 5
           no_frame: true
           no_bg: true
           output_path: ./assets/generated/trophy.svg
