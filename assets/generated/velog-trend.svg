@@ -15,10 +15,10 @@
 <rect class="bg" width="860" height="220" rx="12"/>
 <rect x="1" y="1" width="858" height="218" fill="none" class="border" stroke-width="1" stroke-opacity="0.25" rx="12"/>
 <text x="24" y="30" class="title" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700">Total Views — Last 30d</text>
-<path d="M 50.0 184.0 L 80.2 182.3 L 110.5 180.6 L 140.7 178.6 L 170.9 174.9 L 201.2 171.5 L 231.4 167.4 L 261.6 159.0 L 291.8 157.3 L 322.1 149.2 L 352.3 148.5 L 382.5 141.1 L 412.8 138.0 L 443.0 108.6 L 473.2 106.3 L 503.5 102.9 L 533.7 96.1 L 563.9 93.4 L 594.2 88.3 L 624.4 83.3 L 654.6 80.6 L 684.8 76.5 L 715.1 75.8 L 745.3 49.5 L 775.5 47.1 L 805.8 44.7 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
-<path d="M 50.0 184.0 L 80.2 182.3 L 110.5 180.6 L 140.7 178.6 L 170.9 174.9 L 201.2 171.5 L 231.4 167.4 L 261.6 159.0 L 291.8 157.3 L 322.1 149.2 L 352.3 148.5 L 382.5 141.1 L 412.8 138.0 L 443.0 108.6 L 473.2 106.3 L 503.5 102.9 L 533.7 96.1 L 563.9 93.4 L 594.2 88.3 L 624.4 83.3 L 654.6 80.6 L 684.8 76.5 L 715.1 75.8 L 745.3 49.5 L 775.5 47.1 L 805.8 44.7 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
+<path d="M 50.0 184.0 L 79.1 182.3 L 108.2 180.7 L 137.3 178.6 L 166.4 175.0 L 195.6 171.6 L 224.7 167.6 L 253.8 159.2 L 282.9 157.5 L 312.0 149.5 L 341.1 148.8 L 370.2 141.5 L 399.3 138.5 L 428.4 109.3 L 457.6 107.0 L 486.7 103.6 L 515.8 96.9 L 544.9 94.3 L 574.0 89.2 L 603.1 84.2 L 632.2 81.5 L 661.3 77.5 L 690.4 76.8 L 719.6 50.7 L 748.7 48.4 L 777.8 46.0 L 806.9 41.3 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
+<path d="M 50.0 184.0 L 79.1 182.3 L 108.2 180.7 L 137.3 178.6 L 166.4 175.0 L 195.6 171.6 L 224.7 167.6 L 253.8 159.2 L 282.9 157.5 L 312.0 149.5 L 341.1 148.8 L 370.2 141.5 L 399.3 138.5 L 428.4 109.3 L 457.6 107.0 L 486.7 103.6 L 515.8 96.9 L 544.9 94.3 L 574.0 89.2 L 603.1 84.2 L 632.2 81.5 L 661.3 77.5 L 690.4 76.8 L 719.6 50.7 L 748.7 48.4 L 777.8 46.0 L 806.9 41.3 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
 <circle cx="836.0" cy="40.0" r="4" fill="#FF4500"/>
 <text x="50" y="208" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-08-24</text>
-<text x="836" y="208" text-anchor="end" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-09-24</text>
+<text x="836" y="208" text-anchor="end" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-09-25</text>
 <text x="836" y="42" text-anchor="end" class="sub" font-family="'JetBrains Mono', monospace" font-size="11">5.7k</text>
 </svg>
