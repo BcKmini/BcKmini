@@ -15,10 +15,10 @@
 <rect class="bg" width="860" height="220" rx="12"/>
 <rect x="1" y="1" width="858" height="218" fill="none" class="border" stroke-width="1" stroke-opacity="0.25" rx="12"/>
 <text x="24" y="30" class="title" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700">Total Views — Last 30d</text>
-<path d="M 50.0 184.0 L 77.1 176.5 L 104.2 173.4 L 131.3 143.5 L 158.4 141.1 L 185.5 137.7 L 212.6 130.9 L 239.7 128.1 L 266.8 123.0 L 293.9 117.8 L 321.0 115.1 L 348.1 111.0 L 375.2 110.3 L 402.3 83.5 L 429.4 81.1 L 456.6 78.7 L 483.7 73.9 L 510.8 67.4 L 537.9 64.0 L 565.0 61.9 L 592.1 60.9 L 619.2 58.9 L 646.3 55.8 L 673.4 53.0 L 700.5 52.3 L 727.6 49.9 L 754.7 46.9 L 781.8 45.8 L 808.9 42.1 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
-<path d="M 50.0 184.0 L 77.1 176.5 L 104.2 173.4 L 131.3 143.5 L 158.4 141.1 L 185.5 137.7 L 212.6 130.9 L 239.7 128.1 L 266.8 123.0 L 293.9 117.8 L 321.0 115.1 L 348.1 111.0 L 375.2 110.3 L 402.3 83.5 L 429.4 81.1 L 456.6 78.7 L 483.7 73.9 L 510.8 67.4 L 537.9 64.0 L 565.0 61.9 L 592.1 60.9 L 619.2 58.9 L 646.3 55.8 L 673.4 53.0 L 700.5 52.3 L 727.6 49.9 L 754.7 46.9 L 781.8 45.8 L 808.9 42.1 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
+<path d="M 50.0 184.0 L 77.1 180.8 L 104.2 149.5 L 131.3 147.0 L 158.4 143.4 L 185.5 136.2 L 212.6 133.4 L 239.7 128.0 L 266.8 122.6 L 293.9 119.7 L 321.0 115.4 L 348.1 114.7 L 375.2 86.7 L 402.3 84.2 L 429.4 81.7 L 456.6 76.6 L 483.7 69.8 L 510.8 66.2 L 537.9 64.1 L 565.0 63.0 L 592.1 60.8 L 619.2 57.6 L 646.3 54.7 L 673.4 54.0 L 700.5 51.5 L 727.6 48.3 L 754.7 47.2 L 781.8 43.2 L 808.9 41.1 L 836.0 40.0 L 836.0 184.0 L 50.0 184.0 Z" fill="#FF4500" opacity="0.12"/>
+<path d="M 50.0 184.0 L 77.1 180.8 L 104.2 149.5 L 131.3 147.0 L 158.4 143.4 L 185.5 136.2 L 212.6 133.4 L 239.7 128.0 L 266.8 122.6 L 293.9 119.7 L 321.0 115.4 L 348.1 114.7 L 375.2 86.7 L 402.3 84.2 L 429.4 81.7 L 456.6 76.6 L 483.7 69.8 L 510.8 66.2 L 537.9 64.1 L 565.0 63.0 L 592.1 60.8 L 619.2 57.6 L 646.3 54.7 L 673.4 54.0 L 700.5 51.5 L 727.6 48.3 L 754.7 47.2 L 781.8 43.2 L 808.9 41.1 L 836.0 40.0" fill="none" stroke="#FF4500" stroke-width="2"/>
 <circle cx="836.0" cy="40.0" r="4" fill="#FF4500"/>
-<text x="50" y="208" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-09-03</text>
-<text x="836" y="208" text-anchor="end" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-10-07</text>
+<text x="50" y="208" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-09-04</text>
+<text x="836" y="208" text-anchor="end" class="axis" font-family="'JetBrains Mono', monospace" font-size="10">2026-10-08</text>
 <text x="836" y="42" text-anchor="end" class="sub" font-family="'JetBrains Mono', monospace" font-size="11">5.8k</text>
 </svg>
